@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\bin\Debug\netcoreapp3.1\bai tap levinhnga.exe
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\bin\Debug\netcoreapp3.1\bai tap levinhnga.deps.json
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\bin\Debug\netcoreapp3.1\bai tap levinhnga.runtimeconfig.json
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\bin\Debug\netcoreapp3.1\bai tap levinhnga.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\bin\Debug\netcoreapp3.1\bai tap levinhnga.dll
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\bin\Debug\netcoreapp3.1\bai tap levinhnga.pdb
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\obj\Debug\netcoreapp3.1\bai tap levinhnga.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\obj\Debug\netcoreapp3.1\bai tap levinhnga.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\obj\Debug\netcoreapp3.1\bai tap levinhnga.AssemblyInfo.cs
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\obj\Debug\netcoreapp3.1\bai tap levinhnga.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\obj\Debug\netcoreapp3.1\bai tap levinhnga.dll
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\obj\Debug\netcoreapp3.1\bai tap levinhnga.pdb
+C:\Users\MSI\source\repos\bai tap levinhnga\bai tap levinhnga\obj\Debug\netcoreapp3.1\bai tap levinhnga.genruntimeconfig.cache
